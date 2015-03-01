@@ -15,7 +15,6 @@
 			<artifactId>hornetq-jms-server</artifactId>
 			<version>2.4.5.Final</version>
 		</dependency>
-
 	</dependencies>
 
 </project>
